@@ -3,7 +3,9 @@
 This is a straightforward web application that allows users to track cryptocurrency prices. It’s built using HTML, CSS, and basic JavaScript.
 
 **Features**:
-**Live Price Updates:** The app fetches real-time data from a cryptocurrency API and displays the latest prices for various coins.
+
+**Live Price Updates:** 
+The app fetches real-time data from a cryptocurrency API and displays the latest prices for various coins.
 
 **Live Search:** Easily search for cryptocurrencies by name or ticker symbol using the live search feature. As you type, the app dynamically filters and displays matching results in real-time, making it effortless to find the information you need.
 
