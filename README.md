@@ -1,4 +1,4 @@
-Simple Crypto Tracker Web App:
+#Simple Crypto Tracker Web App:
 
 This is a straightforward web application that allows users to track cryptocurrency prices. It’s built using HTML, CSS, and basic JavaScript.
 
